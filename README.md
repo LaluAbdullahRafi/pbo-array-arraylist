@@ -1,4 +1,4 @@
-# Latihan Array Java - Bank System (Tanpa java.util)
+# Latihan Array Java - Bank System
 
 Proyek ini dibuat untuk memenuhi tugas **Eksplorasi materi Array** pada bahasa pemrograman Java.
 
