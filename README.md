@@ -12,11 +12,13 @@ Program ini menerapkan konsep Pemrograman Berorientasi Objek (OOP) menggunakan *
 4. **`Main`**: Melakukan pengujian pembuatan objek dan pemanggilan method array.
 
 ## Cara Kompilasi dan Menjalankan
+## Cara Kompilasi dan Menjalankan
+
 ```bash
-javac Main.java Bank.java Customer.java Account.java
-java Main<img width="953" height="539" alt="Screenshot 2026-09-29 010227" src="https://github.com/user-attachments/assets/288d9f39-d4e5-43f5-bac1-ee601a790fff" />
+javac Main.java Bentuk.java BujurSangkar.java Lingkaran.java Silinder.java
+java Main
+```
 
+## Screenshot Hasil Eksekusi Program
 
-Output:
-![alt text](image.png)
-![Uploading Screenshot 2026-09-29 010227.png…]()
+![Hasil Output Program](image.png)
